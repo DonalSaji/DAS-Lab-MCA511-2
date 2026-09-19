@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.node_modules
+/node_modules
+
+# Next.js Build and Cache , Turborepo
+.next/
+out/
+.turbo/
+dist/
+
+# Environment Variables (Crucial for Security)
+.env
+*.local
+
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Testing and Logs
+coverage/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+
+.DS_Store
+.github
+/ui-references
