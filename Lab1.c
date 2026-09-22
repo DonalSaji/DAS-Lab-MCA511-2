@@ -110,7 +110,6 @@ int checkPalindrome(Node *head, int n) {
     free(stack);
 
     return 1;
-    // ban ban banana
 }
 
 int main(void) {
